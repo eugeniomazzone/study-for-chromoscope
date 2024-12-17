@@ -1,4 +1,4 @@
-chromosome	start	end	major_cn	minor_cn	total_cn
+chromosome	start	end	total_cn	major_cn	minor_cn
 chr1	252179	2172790	2	2	0
 chr1	2172927	2729410	4	4	0
 chr1	2729569	13900401	2	1	1
