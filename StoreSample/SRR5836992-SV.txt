@@ -1,0 +1,2 @@
+chrom1	start1	end1	chrom2	start2	end2	sv_id	strand1	strand2	sv_class
+chr23	8450332	8450333	chr23	9750038	9750039	INV00006464	+	+	INV

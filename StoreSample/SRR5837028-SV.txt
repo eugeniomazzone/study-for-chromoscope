@@ -1,0 +1,3 @@
+chrom1	start1	end1	chrom2	start2	end2	sv_id	strand1	strand2	sv_class
+chr33	24181981	24181982	chr33	24185721	24185722	DEL00020045	+	-	DEL
+chr23	50373056	50373057	chr18	53844771	53844772	BND00013259	-	-	BND
